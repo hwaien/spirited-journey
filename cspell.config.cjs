@@ -29,6 +29,7 @@ module.exports = {
     "public",
     "resources",
     "themes",
+    "*.json",
   ],
   ignoreRegExpList: ["hugo-short-code"],
   patterns: [{ name: "hugo-short-code", pattern: "/(?<={{)[^}]+/g" }],
