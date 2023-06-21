@@ -1,0 +1,10 @@
+// https://github.com/DavidAnson/markdownlint-cli2#configuration
+{
+  "config": {
+    "default": true,
+    "line-length": false,
+    "list-marker-space": false,
+    "ul-indent": false
+  },
+  "ignores": ["node_modules", "themes"]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "spirited-journey",
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^5.0.0",
+    "autoprefixer": "^10.4.14",
+    "cspell": "^6.31.1",
+    "eslint": "^8.43.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-config-standard": "^17.1.0",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-n": "^16.0.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "markdownlint-cli2": "^0.8.1",
+    "postcss": "^8.4.24",
+    "postcss-cli": "^10.1.0",
+    "prettier": "^2.8.8",
+    "prettier-plugin-go-template": "^0.0.13",
+    "prettier-plugin-toml": "^0.3.1",
+    "purgecss-whitelister": "^2.4.0",
+    "shx": "^0.3.4",
+    "stylelint": "^15.8.0",
+    "stylelint-config-standard-scss": "^9.0.0"
+  },
+  "scripts": {
+    "clean": "shx rm -rf public resources",
+    "prestart": "npm run clean",
+    "start": "hugo server  --bind=0.0.0.0 --disableFastRender",
+    "prebuild": "npm run clean",
+    "build": "hugo --gc --minify",
+    "lint": "npm run lint:markdown && npm run lint:spell",
+    "lint:markdown": "markdownlint-cli2 \"*.md\" \"content/**/*.md\"",
+    "lint:spell": "cspell \"content/**/*.md\"",
+    "test": "npm run -s lint",
+    "env": "env",
+    "precheck": "npm version",
+    "check": "hugo version"
+  }
+}

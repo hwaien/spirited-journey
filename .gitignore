@@ -19,3 +19,19 @@
 
 # Go workspace file
 go.work
+
+# NPM dependencies
+node_modules
+
+# Mac files
+.DS_Store
+
+# Generated files by hugo
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+
+# Temporary lock file while building
+/.hugo_build.lock
+
