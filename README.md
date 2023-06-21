@@ -89,6 +89,3 @@ Here is how to set up the environment to get to work on this repository.
    1. `cd ..` to return to the repository's root directory
    1. `git submodule init`
    1. `git submodule update`
-1. Checkout the default branch of the theme submodule
-   1. `cd themes/hugo-book`
-   1. `git checkout master`
