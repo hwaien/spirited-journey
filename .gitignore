@@ -35,3 +35,5 @@ hugo_stats.json
 # Temporary lock file while building
 /.hugo_build.lock
 
+# Mermaid distribution copied from node_modules
+static/mermaid

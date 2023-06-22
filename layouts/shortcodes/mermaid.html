@@ -1,0 +1,12 @@
+{{ if not (.Page.Scratch.Get "mermaid") }}
+<!-- Include mermaid only first time -->
+{{- $src := "mermaid/mermaid.esm.min.mjs" | relURL -}}
+{{ with resources.Get "mermaid.json" }}
+<script type="module">import mermaid from "{{ $src }}";mermaid.initialize({{ .Content | safeJS }});</script>
+{{ end }}
+{{ .Page.Scratch.Set "mermaid" true }}
+{{ end }}
+
+<pre class="mermaid{{ with .Get "class" }} {{ . }}{{ end }}">
+  {{- .Inner -}}
+</pre>

@@ -12,6 +12,7 @@ module.exports = {
     "decluttering",
     "dotfile",
     "gcrypt",
+    "goldmark",
     "Hwai-En",
     "hwaien",
     "ICPS",
