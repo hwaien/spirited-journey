@@ -24,6 +24,7 @@ module.exports = {
     "mindmap",
     "Miramar",
     "Odoo",
+    "Protillion",
     "Scripps",
     "Stylelint",
     "stylelintignore",
