@@ -4,6 +4,8 @@ Hwai-En's personal journal about everything.
 
 Powered by the [Hugo](https://gohugo.io/) framework.
 
+Use the `hugo new posts/2024/01/01-my-new-post.md` command to create a new post.
+
 ## Guardrails
 
 This repository uses the following guardrails to automatically find and fix problems, thereby minimizing distractions and maximizing productivity.
