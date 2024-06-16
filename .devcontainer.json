@@ -2,6 +2,7 @@
   "image": "mcr.microsoft.com/devcontainers/typescript-node:bullseye",
 
   "features": {
+    "ghcr.io/hwaien/devcontainer-features/match-host-time-zone": {},
     "ghcr.io/hwaien/devcontainer-features/git-remote-gcrypt": {},
     "ghcr.io/devcontainers/features/hugo:1": {
       "extended": true
