@@ -6,6 +6,8 @@ Powered by the [Hugo](https://gohugo.io/) framework.
 
 Use the `hugo new posts/2024/01/01-my-new-post.md` command to create a new post.
 
+Use the `hugo server` command to start the development server.
+
 ## Guardrails
 
 This repository uses the following guardrails to automatically find and fix problems, thereby minimizing distractions and maximizing productivity.
