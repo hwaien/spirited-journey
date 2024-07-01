@@ -2,8 +2,9 @@
 title: "{{ .Name | humanize | title }}"
 date: {{ .Date }}
 tags:
-   - rpg
    - travel
+summary: |
+  
 ---
 
 ## Highlights of the Day
