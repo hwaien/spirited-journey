@@ -2,7 +2,7 @@
 title: "{{ .Name | humanize | title }}"
 date: {{ .Date }}
 tags:
-   - travel
+   - rpg
 summary: |
   
 ---
@@ -11,7 +11,6 @@ summary: |
 
 ## Checklist
 
-- []
 - []
 - []
 - []
