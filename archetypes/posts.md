@@ -12,47 +12,63 @@ summary: |
 ### Today
 
 - [] stretch
-- [] read grant or christian theology
-- [] exercise (strength or bjj)
-- [] watch a BJJ video and take notes
+- [] read
+- [] exercise
 - [] write journal
 - [] drink protein shake
 
 ### This Week
 
-- [] send Sunday School communications
-- [] recruit sunday school core team members
-- [] confirm winter strength training schedule (including Ethan) with coach
-- [] plan next quarter (October, November, December)
-- [] schedule doctor's appointment
+- [] weekly review
 
 ### This Quarter (July, August, September)
 
 - Personal Care
-
   - Exercise
-    - [x] NAGA Competition, 9/21
-    - [x] Build a BJJ learning framework and a game plan for competition.
+    - [] Continue watching BJJ videos
+    - [] Start Judo
+    - [] Create a drilling plan
+    - [] (Stretch) Participate in a tournament
   - Preventive care
+    - [] count weekly protein shakes
+    - [] count weekly stretches
     - [] health check
       - blood sugar check
       - back and hip check
     - [] dental check
   - Reading and Writing
-    - [] christian theology reading
-    - [] daily diary entries
-    - [] weekly technical blog
-
+    - [] count weekly diary entries
+    - [] document weekly reading progress
+    - [] weekly technical blogging
 - Family
-  - [x] take kids to church picnic, 8/24
-  - [x] movie and SeaWorld with kids, 9/1-2
+  - [] Take kids to Dream BJJ
+  - Winter family trip
+     - [] plan
+     - [] go
+  - 1-on-1
+     - [] Ethan October
+     - [] Elizabeth October
+     - [] Ethan November
+     - [] Elizabeth November
+     - [] Ethan December
+     - [] Elizabeth December
 - Material
-  - [x] complete setup of $60k rolling Treasury bill safety net
-  - [x] car maintenance
-  - [] resolve water leak
-  - [] create home buying plan
+  - Financial update
+    - [] balance sheet October
+    - [] income statement October
+    - [] balance sheet November
+    - [] income statement November
+  - Housekeeping
+    - [] do a junk haul
+    - [] create home maintenance roadmap
+  - investment
+    - [] write down investment plan, including house buying plan
 - Church
-  - [] create sunday school core team
+  - [] Send Sunday School coworker list for thanksgiving dinner
+  - [] Do Christmas performance
+  - [] Create Sunday School core team
 - Professional
-  - [] complete Mongodb certification
-- [] plan next quarter (October, November, December)
+  - [] Get MongoDB certification
+  - [] Update Dilly business plan
+  - [] Initial release of fight finder
+- [] plan next year (2025)
