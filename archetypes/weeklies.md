@@ -5,12 +5,17 @@ summary: |
   -
 ---
 
-## Highlights of the Week
+## Habit Tracking
 
-## Coming Week's Big Five
+| Task                | Count |
+| ------------------- | ----- |
+| Stretch             |       |
+| Drink Protein Shake |       |
 
-1.
-1.
-1.
-1.
-1.
+## Reading and Writing Summary
+
+## BJJ Learning Summary
+
+## Professional Learning Summary
+
+## This Week's Accomplishments

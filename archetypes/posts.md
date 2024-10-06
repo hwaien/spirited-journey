@@ -19,7 +19,16 @@ summary: |
 
 ### This Week
 
-- [] weekly review
+- [] buy more sessions from Rudy
+- [] book hotel for Dream BJJ
+- [] tally list of coworkers to invite to thanksgiving dinner
+- [] make initial plan for christmas performance
+- [] look up next BJJ tournament
+- [] make doctors appointment
+- [] message Joji about Judo
+- [] check October treasury bill
+- [] recruit Sunday school core team
+- [] do weekly review and planning
 
 ### This Quarter (July, August, September)
 
@@ -58,6 +67,10 @@ summary: |
     - [] income statement October
     - [] balance sheet November
     - [] income statement November
+  - Safety net
+    - [x] replenish October funds
+    - [x] replenish November funds
+    - [] replenish December funds
   - Housekeeping
     - [] do a junk haul
     - [] create home maintenance roadmap
