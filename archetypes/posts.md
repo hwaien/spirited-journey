@@ -19,15 +19,14 @@ summary: |
 
 ### This Week
 
-- [] buy more sessions from Rudy
-- [] book hotel for Dream BJJ
-- [] tally list of coworkers to invite to thanksgiving dinner
+- [] resolve mortgage situation
 - [] make initial plan for christmas performance
-- [] look up next BJJ tournament
-- [] make doctors appointment
-- [] message Joji about Judo
-- [] check October treasury bill
+- [] sign up for next BJJ tournament
+- [] plan first Judo visit
 - [] recruit Sunday school core team
+- [] complete one more MongoDB training module
+- [] create October balance sheet
+- [] take kids to Dream BJJ
 - [] do weekly review and planning
 
 ### This Quarter (July, August, September)
@@ -77,7 +76,7 @@ summary: |
   - investment
     - [] write down investment plan, including house buying plan
 - Church
-  - [] Send Sunday School coworker list for thanksgiving dinner
+  - [x] Send Sunday School coworker list for thanksgiving dinner
   - [] Do Christmas performance
   - [] Create Sunday School core team
 - Professional
