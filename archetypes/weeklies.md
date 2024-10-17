@@ -5,17 +5,21 @@ summary: |
   -
 ---
 
-## Habit Tracking
+## Next week's focus
 
-| Task                | Count |
-| ------------------- | ----- |
-| Stretch             |       |
-| Drink Protein Shake |       |
+## This week's recap
 
 ## Reading and Writing Summary
 
 ## BJJ Learning Summary
 
 ## Professional Learning Summary
+
+## Habit Tracking
+
+| Task                | Count |
+| ------------------- | ----- |
+| Stretch             |       |
+| Drink Protein Shake |       |
 
 ## This Week's Accomplishments
