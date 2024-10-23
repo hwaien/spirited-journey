@@ -1,0 +1,31 @@
+<nav>
+  <ul>
+    {{- $mainTaxonomy := .Data.Plural -}}
+    {{- $mainTerm := .Data.Term -}}
+    {{- range $term, $_ := .Site.Taxonomies -}}
+      {{- with $.Site.GetPage (printf "/%s" $term | urlize) -}}
+        <li class="book-section-flat">
+          <strong>{{ .Title | title }}</strong>
+          <ul>
+            {{- range .Pages -}}
+              {{- $overlapCount := 0 -}}
+              {{- range .Pages -}}
+                {{- range .GetTerms $mainTaxonomy -}}
+                  {{- if eq .Data.Term $mainTerm -}}
+                    {{- $overlapCount = add $overlapCount 1 -}}
+                  {{- end -}}
+                {{- end -}}
+              {{- end -}}
+              {{- if $overlapCount -}}
+                <li class="flex justify-between">
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                  <span>{{ $overlapCount }}</span>
+                </li>
+              {{- end -}}
+            {{- end -}}
+          </ul>
+        </li>
+      {{- end -}}
+    {{- end -}}
+  </ul>
+</nav>

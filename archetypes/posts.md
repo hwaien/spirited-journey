@@ -23,11 +23,16 @@ summary: |
 
 ### This Week
 
-- [ ] Select songs for Christmas performance and for Sunday worship
-- [ ] Sign up for [tournament](https://grapplingx.smoothcomp.com/en/event/15682) before the 17th
-- [ ] Plan kids 1-on-1 date/activity
+- [x] Jury duty
+- [x] Check car repair status
+- [ ] Send leak repair payment
+- [x] Sign up for [tournament](https://grapplingx.smoothcomp.com/en/event/15682) for Ethan
+- [ ] Send weekly Sunday school message
+- [ ] Strength training with Ethan
+- [ ] Write one technical blog article
 - [ ] Plan first [Judo](https://sdjudo.com/) visit
 - [ ] Recruit Sunday School core team
+- [ ] Practice two more Christmas songs
 - [ ] Complete one more MongoDB training module
 - [ ] Create October balance sheet
 - [ ] Do weekly review and planning
@@ -57,13 +62,16 @@ summary: |
      - [x] plan
      - [ ] go
   - 1-on-1
-     - [ ] Ethan October
-     - [ ] Elizabeth October
+     - [x] 10/18 Tenkatori and 10/19 Denny's with Ethan
+     - [x] 10/20 In-n-Out with Elizabeth
      - [ ] Ethan November
      - [ ] Elizabeth November
      - [ ] Ethan December
      - [ ] Elizabeth December
 - Material
+  - Property tax
+    - [ ] sdttc.com Parcel 3632800742 November 1
+    - [ ] sdttc.com Parcel 4212302333 November 1
   - Financial update
     - [ ] balance sheet October
     - [ ] income statement October

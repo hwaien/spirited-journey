@@ -4,3 +4,9 @@ enableRobotsTXT = true
 languageCode = "en-us"
 theme = "hugo-book"
 title = "Hwai-En's Journal"
+
+[taxonomies]
+category = 'categories'
+sex = 'sex'
+tag = 'tags'
+reading = 'reading'
